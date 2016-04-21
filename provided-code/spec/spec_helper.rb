@@ -24,18 +24,17 @@ module SpecHelper
   # To stretch yourself, you could try this in your web app!
   NUMEROLOGY = {
     "1" => { birthdate: "12151999", message: "The number of UNITY One Lord, One Faith and One Baptism."},
-    "2" => { birthdate: "12161999", message: "The number of DIVISION. There are Two Testaments. The old Testaments
-    and the new testament."},
+    "2" => { birthdate: "12161999", message: "The number of DIVISION. There are Two Testaments, the old and new Testament."},
     "3" => { birthdate: "12171999", message: "The number of DIVINE PERFECTION.The TRINITY is the FATHER, the SON and 
-    the HOLY SPIRIT. Also 3 qualities of the universe. TIME SPACE MATTER ." },
-    "4" => { birthdate: "12181999", message: "This is the number of CREATION. (FOUR SEASONS)(NORTH SOUTH EAST WEST)."},
+    the HOLY SPIRIT. Also three qualities of the universe. TIME SPACE MATTER ." },
+    "4" => { birthdate: "12181999", message:  "This is the number of CREATION. There are Four seasons and NORTH SOUTH EAST WEST."},
     "5" => { birthdate: "12191999", message: "This is the number of GRACE. Also the HOLY ANNOINTING OIL consisted of 
      pure myrrh, cinnamon, cane, cassia and olive oil."},
-    "6" => { birthdate: "12111999", message: "This is the number of MAN. Man was created on day 6. 6th COMMANDMENT: Thou 
+    "6" => { birthdate: "12111999", message: "This is the number of MAN. Man was created on day Six. The Sixth COMMANDMENT, Thou 
      shalt not murder."},
-    "7" => { birthdate: "12121999", message: "Your bible number is the number of SPIRITUAL PERFECTION. There are 7 days in a week: 7 colors in
-     the spectrum. 7 Seals, 7 Trumpets, 7 parables in book of Matthew."},
-    "8" => { birthdate: "12131999", message: "Your bible number is the number of NEW BEGINNINGS. There were also 8 people on Noah's Ark."},
+    "7" => { birthdate: "12121999", message: "It is the number of SPIRITUAL PERFECTION. There are seven days in a week, seven colors in
+     the spectrum. Seven Seals, Seven Trumpets, Seven parables in book of Matthew."},
+    "8" => { birthdate: "12131999", message: "This is the number of NEW BEGINNINGS. There were also eight people on Noah's Ark."},
     "9" => { birthdate: "12141999", message: "This is the number of JUDGMENT."}
   }  
 end
